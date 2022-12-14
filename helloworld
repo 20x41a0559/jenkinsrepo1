@@ -1,0 +1,7 @@
+public class helloworld
+{
+public stastic void main(String arg[])
+{
+System.out.println("hello world");
+}
+}
